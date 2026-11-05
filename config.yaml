@@ -1,0 +1,10 @@
+version: 1
+user: "davidcollom"
+lists:
+  - slug: "ai-toolkits" # taken from /stars/<user>/lists/<slug>
+    title: "Awesome AI Toolkits"
+    tagline: "Toolkits that put an AI assistant to work."
+    min_stars: 0
+    stale_months: 0
+    badges:
+      - "https://img.shields.io/badge/awesome-yes-brightgreen"
