@@ -17,7 +17,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — ⭐ 113,268 · Apache-2.0 — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 - [tjboudreaux/cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) — ⭐ 1,704 · MIT — 28 eval-informed mental models and critical-thinking skills for Claude Code, GitHub Copilot, Codex, Cursor, and other Agent Skills-compatible tools
 - [blader/humanizer](https://github.com/blader/humanizer) — ⭐ 65,064 · MIT — Agent skill that removes signs of AI-generated writing from text
-- [anthropics/skills](https://github.com/anthropics/skills) — ⭐ 187,592 — Public repository for Agent Skills
+- [anthropics/skills](https://github.com/anthropics/skills) — ⭐ 187,593 — Public repository for Agent Skills
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) — ⭐ 76,961 · MIT — Examples and guides for using the OpenAI API
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) — ⭐ 6,345 · MIT — Tutorials, Guides and Agent Skills Directories
 - [google/adk-go](https://github.com/google/adk-go) — ⭐ 8,939 · Apache-2.0 — An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
